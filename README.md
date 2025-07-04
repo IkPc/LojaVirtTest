@@ -18,7 +18,7 @@ Capacitar alunos no desenvolvimento de testes utilizando o ecossistema Java, abo
 - **Java 17**
 - **Maven**
 - **JUnit 5** – testes unitários
-- **Rest Assured** – testes de API REST
+- **Rest Assured** – testes de API REST 
 - **Allure Reports** – geração de relatórios
 - **Testes de Contrato** – [especifique aqui a ferramenta utilizada, ex: Pact, Spring Cloud Contract]
 
